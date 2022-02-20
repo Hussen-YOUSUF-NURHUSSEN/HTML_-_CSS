@@ -1,0 +1,98 @@
+
+/*
+    !! 01 - Discover Design
+
+        @-- Go to google --> write (normalize.css) --> download the code
+        to rendre the page in normal way for browsers
+
+        @-- Go to google --> download the font (work sans) 
+
+
+        --- set the global rules in css 
+
+    !! 02 - Create Containers && Add Font Icons
+
+        @-- go to --> (font awesome) free for web & download 
+
+        font icon ----> allow to treat font as if they were text 
+        
+        --- take the folder (webfont) & move it to my project --> (near my css folder)
+        --- take the file (css/all.min.css) & move it (inside my css folder)
+        all.min.css ---> minified, compressed 
+
+        @-- container
+        
+        and add (@media) the same as bootstrap - for responsive
+        --- width of container will be smaller than the device pixel
+        
+
+    !! 03 - Create Header And Links Part 1
+
+        @-- (Header) will contain (container) to center it's elements in specified size
+
+        Which will have (.logo image) --> in the left
+                        
+                        (.links div)  --> in the right
+        
+                            ---  will contain (.icon span) ====> with three lines (3 span)
+                            ---               (ul)
+
+
+    !! 04 - Create Header And Links Part 2
+
+        Organsise the icon and ul
+
+    !! 05 - Create Landing Section
+
+        image with montagne & center the text in middle
+
+    !! 06 - Create Features Section
+
+        Grid with 3 columns for features (responsive)
+
+    !! 07 - Create Services Section Part 1
+
+        --- General special-heading style in css
+
+        @-- <div class="services"> that have 3 child:-
+            
+            ++ 1) h2
+            ++ 2) p
+            ++ 3) <div class="services-content">
+
+                !! Grid
+                    --- <div class="col">                
+                            with 2 <div class="srv">  Flex               
+                    --- <div class="col">
+                            with 2 <div class="srv">
+                    --- <div class="col">
+                            with <div class="image image-column">
+
+    !! 09 - Create Portfolio Section
+
+        @-- <div class="portfolio"> that have 3 child:-
+
+            ++ 1) h2
+            ++ 2) p
+            ++ 3) <div class="portfolio-content">
+
+                    !! Grid
+                    --- 3  <div class="card"> that have (img) and (info div)
+
+
+    !! 10 - Create About Section Part 1
+
+            ++ 1) h2
+            ++ 2) p
+            ++ 3) <div class="about-content">   FLEX
+
+                    --- <div class="image">
+
+                    --- <div class="text">
+
+
+    !! 12 - Create Contact Section And Footer
+
+    
+
+*/
