@@ -1,0 +1,57 @@
+
+I used -------> Better Comments  by Aaron Bond
+
+the configuration in settings json are :- 
+
+ "better-comments.tags": [
+    
+        {
+          "tag": "!!",        // important
+          "color": "#FF2D00", // red
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "@--",      // main
+          "color": "#0f0f0f", // black
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "#797c7d",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "tag": "---",       // explain important
+          "color": "#1e9c5a",  // green
+        },
+        {
+          "tag": "todo",       // to do
+          "color": "#FF8C00",  // orange
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "++",       // html
+          "color": "#3498DB",  // blue
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "tag": "*#",          // 
+          "color": "#ccd63a",   // yellow
+          "strikethrough": false,
+          "underline": false,
+          "backgroundColor": "transparent",
+          "bold": false,
+          "italic": false
+        }
+      ]

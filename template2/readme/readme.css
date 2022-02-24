@@ -1,0 +1,150 @@
+
+/*
+
+    !! 01 - Discover Design
+
+    
+        @-- Go to google --> download the font (open sans) 
+            regular 400 - bold 700 - 
+
+        --- set the global rules in css 
+        
+        !! Because everything is set to zero - padding & margin
+        they will start from top left
+
+        !! padding-top && padding-bottom ===> is important to separate each section or page
+
+
+
+    !! 02 - Create Header Part 1
+
+        @-- Header ===> logo & nav
+
+        postion absolute will put it in left corner && landing section will be with it
+
+        ++ so the .landing ==> wil be relative && photo
+        
+            - it's content will start from top: 50%;
+
+
+
+
+    !! 05 - Landing Section Part 1
+
+        @-- <div class="landing">  
+
+        --- contain img && min-height: 100vh;
+        --- position relative
+
+            @-- <div class="overlay>  
+
+            --- to give the whole picture dark background-color
+
+            @-- <div class="text>  
+
+            --- for the blue background
+
+                    @-- <div class="content>  
+
+                    --- contain text
+
+            @-- two icon 
+
+            --- share some feature like color and size and place
+
+            @-- ul 
+
+            -- to make the three cercle bullets
+
+
+
+    !! 07 - Heading Component
+
+        --- Wrtie (component) that will repeat 
+
+    !! 08  Services
+
+        @-- <div class="services">
+
+
+                @-- <div class="main-heading">
+
+                    --- have the head & icon & paragraph
+                    
+
+                @-- <div class="services-container">
+
+                    --- have BOX's 
+
+    !! 09  Design
+    
+        @-- <div class="design">
+
+
+                @-- <div class="img">
+
+
+                @-- <div class="text">
+
+
+    !! 10  Portofolio
+
+        @-- <div class="portfolio">
+
+
+                @-- <div class="container">
+
+                    --- <div class="main-heading">
+                    --- <ul class="shuffle">
+
+                @-- <div class="imgs-container">
+
+                    --- <div class="box">  beaucoup
+                    ++ each have img & caption
+
+
+                @-- <a href="#" class="more">More</a>
+
+
+    !! 14 Skils
+        
+        @-- <div class="our-skills">
+
+
+                @-- <div class="testimonials">
+
+                    --- H3 & p
+                    --- <div class="content">  (2)
+                    --- <ul class="bullets">
+
+                @-- <div class="skills">
+
+                    --- H3 & p
+                    --- <div class="prog-holder"> (multiple)
+
+
+
+    !! 15 Pricing
+
+
+        @-- <div class="pricing">
+
+
+            @-- <div class="main-heading">
+
+
+            @-- <div class="plans">
+
+                ---  <div class="plan"> (multiple)
+
+                        ++ <div class="head">
+                        ++ ul
+                        ++ <div class="foot">
+
+
+
+
+
+
+
+*/
